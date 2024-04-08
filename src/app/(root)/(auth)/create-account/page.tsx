@@ -27,7 +27,7 @@ function CreateAccountPage() {
 
   return (
     //formulář, podobně jako v php se volá akce. Z name atributů se hodnoty uloží do objektu Formdata 
-    <div className="flex mt-20 justify-center">
+    <div className="flex mt-20 justify-between">
       <form
         className="flex flex-col bg-emerald-700 w-96 p-8 rounded-lg gap-y-4"
         action={handleClickCreateAccountButton}
