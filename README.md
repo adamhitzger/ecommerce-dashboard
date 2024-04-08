@@ -1,5 +1,5 @@
 ## Složky
--public - svg icony
+-public - svg icony<br />
 -app - hlavní složka neboli app router
     - složky v kulatých závorkách slouží k popisu, nemají vliv na stránkování
     - složky pojemnované jako admin, categories, sizes atd. jsou ve skutečnosti stránky - v každé je soubor page.tsx, dynamická stránka [id] s souborem page.tsx
